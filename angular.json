@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-multiselect-dropdown"
+    }
+  },
+  "defaultProject": "ng-multiselect-dropdown",
+  "cli": {
+    "analytics": false
+  }
 }
